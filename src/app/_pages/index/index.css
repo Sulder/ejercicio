@@ -1,0 +1,19 @@
+.black-color{
+  background-color: black;
+}
+.td-color{
+  background-color: #F7F6F6;
+  width: 25px
+}
+
+.td-status-true {
+  background-color: #53E280
+}
+
+.td-status-false{
+  background-color: #F23142
+}
+
+.tr-color{
+  background-color: #F7F6F6;
+}
